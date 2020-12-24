@@ -1,3 +1,3 @@
 1 + 1
 
-return 1 + "is the loneliest number"
+return puts 1 + "is the loneliest number"
